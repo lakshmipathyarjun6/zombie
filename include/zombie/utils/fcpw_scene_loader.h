@@ -23,7 +23,7 @@ void loadSurfaceMesh<2>(const std::string& filename,
 						std::vector<std::vector<size_t>>& meshIndices)
 {
 	// load file
-	fcpw::PolygonSoup<3> soup;
+	fcpw::PolygonSoup<2> soup;
 	fcpw::loadLineSegmentSoupFromOBJFile(filename, soup);
 
 	// collect mesh positions and indices
