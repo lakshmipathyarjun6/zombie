@@ -1,6 +1,6 @@
 [submodule "deps/fcpw"]
 	path = deps/fcpw
-	url = https://github.com/rohan-sawhney/fcpw.git
+	url = https://github.com/lakshmipathyarjun6/fcpw.git
 [submodule "deps/pcg32"]
 	path = deps/pcg32
 	url = https://github.com/wjakob/pcg32.git
